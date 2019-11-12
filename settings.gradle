@@ -1,0 +1,2 @@
+include ':app', ':spinnerlib'
+rootProject.name='Spinner Library'
